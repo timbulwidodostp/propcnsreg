@@ -1,5 +1,17 @@
-d 'DEA': Data envelopment analysis
+d 'propcnsreg': Fitting a measurement model with causal indicators Use propcnsreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mimic_e2.ado
+f mimic_lf.ado
+f propcnsasl.ado
+f propcnslogit_e2.ado
+f propcnslogit_lf.ado
+f propcnspoisson_e2.ado
+f propcnspoisson_lf.ado
+f propcnsreg.ado
+f propcnsreg.sthlp
+f propcnsreg_e2.ado
+f propcnsreg_ex.ado
+f propcnsreg_lf.ado
+f propcnsreg_p.ado
+f propcnsreg_postestimation.sthlp
+f propcnsreg_sim.sthlp
